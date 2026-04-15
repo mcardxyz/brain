@@ -1,5 +1,5 @@
 # SecondBrain
-___
+
 Usage is very simple:
 
 🧩 **PARA**
